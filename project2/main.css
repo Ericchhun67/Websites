@@ -1,0 +1,19 @@
+body{
+       background-image: url(./5509862.jpg);
+}
+
+
+#logo{
+       background-image: url(./planet.png);
+       background-position: top right;
+
+
+}
+
+.image{
+       background-image:url(./Mars.jpg);
+       background-position: bottom right;
+
+}
+
+
