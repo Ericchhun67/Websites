@@ -1,0 +1,13 @@
+body{
+        background-image:url(../project3/img/17268.jpag.jpg);
+        /*  */
+}
+
+table, th, td{
+        border: 1px soild black;
+        border-collapse: collapse;
+}
+
+.tab{
+        tab-size: 2;
+}
